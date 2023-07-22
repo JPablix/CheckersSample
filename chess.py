@@ -1,0 +1,1 @@
+#Sample of a mini chess with text interface
