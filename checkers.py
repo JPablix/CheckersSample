@@ -34,3 +34,7 @@ def imprimir_tablero(tablero):
 
 crear_tablero()
 imprimir_tablero(tablero)
+
+#W donde haya O en las primeras 3 líneas
+#B donde haya O en las últimas 3 líneas 
+#2 ciclos (for, while)
