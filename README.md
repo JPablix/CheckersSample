@@ -1,1 +1,1 @@
-# ChesSample
+# ChekersSample
